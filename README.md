@@ -4,4 +4,4 @@
 
 En este curso de va a hacer un clon de la pagina principal de Google
 
-- [Link del clon](https://edierbra.github.io/HTML_CSS_Practico/)
+- [Link del clon](https://edierbravo.github.io/HTML_CSS_Practico/)
